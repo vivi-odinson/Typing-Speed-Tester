@@ -1,4 +1,4 @@
-#https://www.safaribooksonline.com/videos/python-gui-programming/9781788471268/
+
 
 PyQt5
 ====
